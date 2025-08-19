@@ -57,3 +57,14 @@ while True:
         print("Too low! Try again.")
     else:
         print("Too high! Try again.")
+
+
+#if condition:
+    # Code to run if condition is True
+#elif another_condition:  # Optional
+    # Code to run if another_condition is True
+#else:  # Optional
+    # Code to run if all conditions are False
+
+    #for variable in sequence:
+    # Code to run for each item
